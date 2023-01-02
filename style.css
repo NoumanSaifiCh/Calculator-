@@ -1,0 +1,67 @@
+#cal-main-div {
+    width: fit-content;
+    padding: 30px;
+    justify-content: center;
+    border-radius: 7px;
+}
+
+#inner-div {
+    background-color: rgb(26, 25, 25);
+    border-radius: 7px;
+    height: auto;
+    padding: 1%;
+}
+
+#label-style {
+    color: white;
+    font-size: large;
+    margin-left: 7px;
+}
+
+.input-1-style {
+    box-shadow: none !important;
+    background-color: rgb(26, 25, 25) !important;
+    border: 0px solid #000000 !important;
+    text-align: end !important;
+    color: white !important;
+
+}
+
+.input-2-style {
+    box-shadow: none !important;
+    background-color: rgb(26, 25, 25) !important;
+    border: 0px solid #000000 !important;
+    text-align: end !important;
+    color: white !important;
+    font-size: larger !important;
+}
+
+.bt-main-div {
+    background-color: rgb(233, 240, 240);
+    border-radius: 10px;
+}
+
+.bt-div {
+    margin-top: 4px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.bt-main {
+    margin: 3px;
+    border-radius: 7px;
+    height: 48px;
+    width: 107px;
+    font-size: larger;
+    box-shadow: 1px 3px 3px rgba(99, 235, 181, 0.4);
+}
+
+.bt-style {
+    box-shadow: 1px 3px 3px rgba(99, 235, 181, 0.4);
+    margin: 3px;
+    border-radius: 7px;
+    height: 48px;
+    width: 48px;
+    font-size: larger;
+}
